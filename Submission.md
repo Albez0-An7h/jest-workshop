@@ -44,7 +44,7 @@ It protects again when coupon code is not written in all caps, instead all lower
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? (Yes / No)
 - GitHub Actions Run URL:
-
+https://github.com/Albez0-An7h/jest-workshop/blob/main/.github/workflows/node.js.yml
 ---
 
 ## Reflection (1–2 lines)
